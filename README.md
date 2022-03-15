@@ -5,6 +5,22 @@ Course website: https://data-psl.github.io/intensive-week-genomics-2022/
 
 # Practical session
 Prepared by [Chloé-Agathe Azencott](https://github.com/chagaz) with the help of [Vivien Goepp](https://github.com/vgoepp).
+## Notebooks
+The notebooks cover the same tools as the lecture:
+* Practical 1:
+  * T-test and Manhattan plots
+  * Linear regression
+  * Lasso
+* Practical 2:
+  * Elastic-net
+  * Multi-task lasso
+  * Network-constrained lasso
+
+The practicals require writting very little code: most questions are about commenting on the results. We will provide solutions.
+
+## Slides
+Slides will be made available.
+
 ## Setting up
 ### Obtaining the code
 You can either
@@ -22,19 +38,3 @@ You will need Python3, a few numerical python librairies (numpy, matplotlib, pan
 * [Install miniconda](https://github.com/goepp/ml-in-genomics-2021/blob/master/miniconda)
 * Create a conda environment using the `environment.yml` file in this repo : ``conda env create --file=environment.yml -n mlgen`` which you can then activate using ``conda activate mlgen``
 * Start Jupyter from this environment and navigate to the notebook you want to run.
-
-## Notebooks
-The notebooks cover the same tools as the lecture:
-* Practical 1:
-  * T-test and Manhattan plots
-  * Linear regression
-  * Lasso
-* Practical 2:
-  * Elastic-net
-  * Multi-task lasso
-  * Network-constrained lasso
-
-The practicals require writting very little code: most questions are about commenting on the results. We will provide solutions.
-
-# Slides
-Slides will be made available.
