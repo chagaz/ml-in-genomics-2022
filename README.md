@@ -9,6 +9,7 @@ Prepared by [Chloé-Agathe Azencott](https://github.com/chagaz) with the help of
 ### Obtaining the code
 You can either
 * Download the repository as zip under the green "Code" button on the top right corner of this page
+
 or
 * Fork the repository (using the "Fork" button in the upper right corner), then clone ''your'' version of the repo (with URL ``https://github.com/<your_github_username>/ml-in-genomics-2022/`` to your machine using instructions under the  green "Code" button on the top right corner of the page, then add the original repo as an upstream branch with ``git remote add upstream git@github.com:chagaz/ml-in-genomics-2022.git``
 Then whenever you want to synchronize your version with the upstream version, you can use 
