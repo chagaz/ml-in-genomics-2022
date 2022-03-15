@@ -19,8 +19,8 @@ git merge upstream/main``
 You will need Python3, a few numerical python librairies (numpy, matplotlib, pandas, seaborn, scikit-learn) and Jupyter Lab/Notebook. An easy way to set up from scratch is to 
 * [Install miniconda](https://github.com/goepp/ml-in-genomics-2021/blob/master/miniconda)
 * Create a conda environment using the `environment.yml` file in this repo : 
-``conda env create --file=environment.yml
-conda activate mlgen``
+```conda env create --file=environment.yml
+conda activate mlgen```
 * Start Jupyter from this environment and navigate to the notebook you want to run.
 
 
