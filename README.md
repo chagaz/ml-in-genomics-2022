@@ -7,19 +7,24 @@ Course website: https://data-psl.github.io/intensive-week-genomics-2022/
 Prepared by [Chloé-Agathe Azencott](https://github.com/chagaz) with the help of [Vivien Goepp](https://github.com/vgoepp).
 ## Notebooks
 The notebooks cover the same tools as the lecture:
-* Practical 1:
+* Practical 1: 
   * T-test and Manhattan plots
-  * Linear regression
-  * Lasso
+  * PCA-based correction for population stratification
+  * Multivariate linear regression
 * Practical 2:
+  * Lasso
+  * Stability
+* Practical 3:
   * Elastic-net
+* Practical 4:
   * Multi-task lasso
+* Practical 5 (to be made available):
   * Network-constrained lasso
 
-The practicals require writting very little code: most questions are about commenting on the results. We will provide solutions.
+The first 3 practicals require writting very little code: most questions are about commenting on the results. In the 4th practical, you will have to reuse and adapt code from the previous practicals.
 
 ## Slides
-Slides will be made available.
+The lecture is based on a version of [these slides from a January 2022 lecture](https://cloud.mines-paristech.fr/index.php/s/1ENMHAu0SvqwcT4).
 
 ## Setting up
 ### Obtaining the code
